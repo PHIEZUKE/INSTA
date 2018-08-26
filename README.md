@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/sJzfZsL.jpg" width="150" align="right">
-
+# SEMUA AKAN MATI PADA WAKTUNYA
+### ---------------------------------------------
 # InstaPy
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
